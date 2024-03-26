@@ -1,0 +1,2 @@
+[INFO] aps-framework-parent ............................... SUCCESS [  0.688 s]
+[INFO] aps-dependencies-bom ............................... SUCCESS [  0.011 s]
